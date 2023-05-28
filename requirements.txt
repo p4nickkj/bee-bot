@@ -1,0 +1,4 @@
+aiohttp
+requests
+discord.py
+python-decouple
